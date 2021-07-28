@@ -111,3 +111,8 @@ p {
 .form-group {
   width: 400px;
 }
+
+.btn-primary {
+  background-color: #fff;
+  color: #6070ff;
+}
