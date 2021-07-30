@@ -48,6 +48,7 @@ open index.html with live server
 - GitHub: [@githubhandle](https://github.com/Rustamxon7)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rustamjon-tolipov-6a831020b)
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
